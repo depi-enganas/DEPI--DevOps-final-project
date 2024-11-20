@@ -64,6 +64,7 @@ A simple web application built using HTML, MongoDB, and Node.js. The app display
 ## Authors
 
 - Ahmed Nabil
-- Mohmamed EL-Mahdy 
-- Ahmed Hisham
+- Anas Mohamed Amin
+- Mohmamed EL-Mahdy
+- Ahmed hesham
 - Mohamed Alaa
